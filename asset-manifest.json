@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rpsls-game/static/css/main.01a70e6e.chunk.css",
+    "main.js": "/rpsls-game/static/js/main.7db41ebf.chunk.js",
+    "main.js.map": "/rpsls-game/static/js/main.7db41ebf.chunk.js.map",
+    "runtime-main.js": "/rpsls-game/static/js/runtime-main.4c5cb7f1.js",
+    "runtime-main.js.map": "/rpsls-game/static/js/runtime-main.4c5cb7f1.js.map",
+    "static/js/2.0feee3fc.chunk.js": "/rpsls-game/static/js/2.0feee3fc.chunk.js",
+    "static/js/2.0feee3fc.chunk.js.map": "/rpsls-game/static/js/2.0feee3fc.chunk.js.map",
+    "index.html": "/rpsls-game/index.html",
+    "static/css/main.01a70e6e.chunk.css.map": "/rpsls-game/static/css/main.01a70e6e.chunk.css.map",
+    "static/js/2.0feee3fc.chunk.js.LICENSE.txt": "/rpsls-game/static/js/2.0feee3fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5cb7f1.js",
+    "static/js/2.0feee3fc.chunk.js",
+    "static/css/main.01a70e6e.chunk.css",
+    "static/js/main.7db41ebf.chunk.js"
+  ]
+}
