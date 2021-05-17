@@ -1,9 +1,8 @@
-import React from 'react'
 import { PlayerMove } from './PlayerMoveI'
 import PlayerMoves from './PlayerMoves'
 import MoveButton from './MoveButton'
 import { useDispatch } from 'react-redux'
-import { activateCountdown, playerAction } from './gameSlice'
+import { playerAction } from './gameSlice'
 import { PlayerChoices } from './PlayerChoices'
 
 export const Game = (props: any) => {
